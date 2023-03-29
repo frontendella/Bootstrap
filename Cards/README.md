@@ -1,3 +1,3 @@
-# Designed List Group with Bootstrap classes
+# Designed Cards with Bootstrap classes
 
 Made with [Scrimba](https://scrimba.com/learn/bootstrap4)
